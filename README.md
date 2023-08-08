@@ -38,6 +38,7 @@
 
 ■導入動画<br>
 [![alt](http://img.youtube.com/vi/jdL7YCdV7qw/0.jpg)](https://www.youtube.com/watch?v=jdL7YCdV7qw)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMaximilian2022%2FAmongUs-Mod-Auto-Deploy-Script.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMaximilian2022%2FAmongUs-Mod-Auto-Deploy-Script?ref=badge_shield)
 
 
 <!-- wp:paragraph -->
@@ -188,3 +189,7 @@ EpicはGame Launcherにインストールパスを都度変更する形での実
 <br>
 </p>
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMaximilian2022%2FAmongUs-Mod-Auto-Deploy-Script.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMaximilian2022%2FAmongUs-Mod-Auto-Deploy-Script?ref=badge_large)
